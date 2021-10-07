@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'Physecology Collection';
+var title = 'Physecology Collection (under construction)';
 
 /**
  * Relative path to the data directory
