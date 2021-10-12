@@ -285,6 +285,7 @@
         "number": "1-2",
         "pages": "135-163",
         "publisher": "Springer",
+        "series": "CSCW '17",
         "title": "Surfacing Small Worlds through Data-In-Place",
         "type": "article",
         "volume": "26",
@@ -341,8 +342,10 @@
         "keywords": "data availability:static, data attribute:quantitative, info com:optical properties, interaction:none, implication:n/a, i/o coupling:n/a, setup:spatial, audience:semi-public",
         "pages": "1-15",
         "publisher": "Springer",
+        "series": "Pers Ubiquit Comput",
         "title": "Understanding Visitor Interaction with a Projection Augmented Relief Model Display: Insights from an In-the-Wild Study in the English Lake District",
         "type": "article",
+        "url": "https://doi.org/10.1007/s00779-019-01320-2",
         "year": "2019"
     },
     "passim2015": {
