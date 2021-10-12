@@ -111,7 +111,7 @@
         "year": "2009"
     },
     "dataphysproject2016": {
-        "author": "Evandro Dami\u00e3o",
+        "author": "Dami\u00e3o, Evandro",
         "keywords": "data availability:static, data attribute:categorical, info com:optical properties, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:logical, audience:open-ended",
         "title": "The Dataphys Project",
         "type": "misc",
@@ -120,7 +120,7 @@
     },
     "dataponics2016": {
         "abstract": "The main promise behind the idea of self-quantification is to transform our lives through the continuous collection of numerical evidence about the body and its activity. Although this process may help boost self-knowledge, everyday life also involves a complex network of relations with other bodies that exert a significant, sometimes determining, influence on our behaviour. To address this concern, we suggest that self-quantification data can be modulated as perturbations to other human and non-human bodies that, in turn, may directly affect the everyday practices of the self. By coupling quantified bodies, we transform existing practices by disrupting the elements that realise, perform and reproduce existing practices. In order to explore and further understand the affective potential of this idea, we designed a system that creates unfamiliar, digitally enabled couplings between two quantified bodies: a human and a plant. In particular, in this design experiment we modulate walking activity data into perturbations to a quantified plant. How does this coupling transform the way we look at self-quantification? Are we bringing forth a new space of responsibility and ethical concern? What if the plant dies because someone did not walk enough? In this article we discuss the implications of creating such a coupling keeping a critical distance to current forms of self-quantification, which are often focused on change through prescriptive solutions rather than through the fostering of self-determined growth. With this work we aim to expand the current understanding of the affective possibilities of self-quantification in the context of social change.",
-        "author": "Robert Cerc\u00f3s and William Goddard and Adam Nash and Jeremy Yuille",
+        "author": "Cerc\u00f3s, Robert and Goddard, William and Nash, Adam and Yuille, Jeremy",
         "doi": "doi:10.14361/dcs-2016-0114",
         "journal": "Digital Culture \\& Society",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:material properties, interaction:indirect, implication:manipulation, i/o coupling:environmental, setup:logical, audience:private",
@@ -330,7 +330,7 @@
         "year": "2015"
     },
     "onbrink2018": {
-        "author": "Dustin Stupp",
+        "author": "Stupp, Dustin",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:specialized application, interaction:none, implication:n/a, i/o coupling:n/a, setup:spatial, audience:open-ended",
         "title": "ON BRINK",
         "type": "misc",
@@ -351,7 +351,7 @@
         "year": "2019"
     },
     "passim2015": {
-        "author": "Paul Heinicker",
+        "author": "Heinicker, Paul",
         "keywords": "data availability:static, data attribute:categorical, info com:optical properties, interaction:none, implication:n/a, i/o coupling:n/a, setup:standalone, audience:open-ended",
         "title": "Passim",
         "type": "online",
@@ -392,7 +392,7 @@
         "year": "2016"
     },
     "pointcloud2012": {
-        "author": "James Leng",
+        "author": "Leng, James",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:positioning in space, interaction:none, implication:n/a, i/o coupling:n/a, setup:standalone, audience:open-ended",
         "title": "Point Cloud",
         "type": "online",
@@ -426,7 +426,7 @@
         "year": "2017"
     },
     "prismmapitaly2016": {
-        "author": "Alessandro Masserdotti",
+        "author": "Masserdotti, Alessandro",
         "keywords": "data availability:static, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:logical, audience:open-ended",
         "title": "Actuated Prism Map of Italy",
         "type": "misc",
