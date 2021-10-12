@@ -17,7 +17,7 @@
     "cairn2017": {
         "abstract": "In this pictorial, we present the design process and the functioning of Cairn: a tangible apparatus that enables data collection, visualization and analysis. Designed within a community of practice of a French FabLab, Cairn aims at understanding the variety of practices within FabLabs. Cairn explores tangible alternatives to questionnaires and other traditional evaluation techniques, and stressed the aesthetic and affective dimensions to create an engaging experience. It invites Fablab visitors to reflect on their practices by materializing their activities using small colored wooden-tiles. Interacting individually with Cairn, people contribute to create a collaborative and meaningful sculpture, upon which they can reflect collectively. We discuss the opportunities that this prototype opens for future situated HCI research.",
         "address": "New York, NY, USA",
-        "author": "Gourlet, Pauline and Dass\\'{e Thierry",
+        "author": "Gourlet, Pauline and Dass\u00e9, Thierry",
         "booktitle": "Proceedings of the 2017 Conference on Designing Interactive Systems",
         "doi": "10.1145/3064663.3064794",
         "isbn": "9781450349222",
@@ -103,7 +103,7 @@
         "year": "2020"
     },
     "datamorphose2009": {
-        "author": "Christiane Keller",
+        "author": "Keller, Christiane",
         "keywords": "data availability:static, data attribute:categorical, data attribute:quantitative, info com:positioning in space, info com:optical properties, interaction:none, implication:n/a, i/o coupling:n/a, setup:spatial, audience:open-ended",
         "title": "dataMorphose",
         "type": "misc",
@@ -191,7 +191,7 @@
     },
     "emerge2017": {
         "abstract": "Physical data representations, or data physicalizations, are a promising new medium to represent and communicate data. Previous work mostly studied passive physicalizations which require humans to perform all interactions manually. Dynamic shape-changing displays address this limitation and facilitate data exploration tasks such as sorting, navigating in data sets which exceed the fixed size of a given physical display, or preparing \u201cviews\u201d to communicate insights about data. However, it is currently unclear how people approach and interact with such data representations. We ran an exploratory study to investigate how non-experts made use of a dynamic physical bar chart for an open-ended data exploration and presentation task. We asked 16 participants to explore a data set on European values and to prepare a short presentation of their insights using a physical display. We analyze: (1) users' body movements to understand how they approach and react to the physicalization, (2) their hand-gestures to understand how they interact with physical data, (3) system interactions to understand which subsets of the data they explored and which features they used in the process, and (4) strategies used to explore the data and present observations. We discuss the implications of our findings for the use of dynamic data physicalizations and avenues for future work.",
-        "author": "Taher, Faisal and Jansen, Yvonne and Woodruff, Jonathan and Hardy, John and Hornb{\\ae}k, Kasper and Alexander, Jason",
+        "author": "Taher, Faisal and Jansen, Yvonne and Woodruff, Jonathan and Hardy, John and Hornbaek, Kasper and Alexander, Jason",
         "doi": "10.1109/TVCG.2016.2598498",
         "journal": "IEEE Transactions on Visualization and Computer Graphics",
         "keywords": "data availability:static, data attribute:categorical, data attribute:quantitative, info com:positioning in space, info com:optical properties, interaction:direct, interaction:indirect, implication:exploration, i/o coupling:full, i/o coupling:nearby, setup:logical, audience:open-ended",
@@ -231,7 +231,7 @@
     "goodevil2014": {
         "author": "ECAL",
         "keywords": "data availability:dynamic, data attribute:ordinal, info com:positioning in space, interaction:none, implication:n/a, i/o coupling:n/a, setup:standalone, audience:open-ended",
-        "title": "\\#Good vs. \\#Evil",
+        "title": "#Good vs. #Evil",
         "type": "misc",
         "url": "https://vimeo.com/118477012",
         "year": "2014"
@@ -266,7 +266,7 @@
         "abstract": "Wearables, mobile devices and Internet-of-Things (IoT) sensors are enabling us to monitor our environment, understand our social connections, and track our personal health. However, most of these systems communicate data through information visualizations that are often \u2018hidden\u2019 inside devices, such as mobile phones and tablets, requiring users to undertake explicit actions to reveal them. Novel interfaces and devices embedded in people's everyday life have the potential to help users visualize, use, and appropriate their collected personal data. To this end, we designed the physical artifact LOOP, which provides an abstract visualization of the user's activity data by changing its shape. In this paper, we elaborate on the design and present a one-week field study in which LOOP was deployed in the homes of five end-users. We found that the physical presence of LOOP facilitated reflection and the layered visualization supported various personal tracking.",
         "address": "New York, NY, USA",
         "articleno": "52",
-        "author": "Sauv\\'{e Kim and Bakker, Saskia and Marquardt, Nicolai and Houben, Steven",
+        "author": "Sauv\u00e9, Kim and Bakker, Saskia and Marquardt, Nicolai and Houben, Steven",
         "booktitle": "Proceedings of the 2020 Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society",
         "isbn": "9781450375795",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:manipulation, i/o coupling:environmental, setup:logical, audience:private",
@@ -279,6 +279,7 @@
         "year": "2020"
     },
     "microsoftphysicalcharts2017": {
+        "abstract": "We present findings from a five-week deployment of voting technologies in a city neighbourhood. Drawing on Marres\u2019 (2012) work on material participation and Massey\u2019s (2005) conceptualisation of space as dynamic, we designed the deployment such that the technologies (which were situated in residents\u2019 homes, on the street, and available online) would work in concert, cutting across the neighbourhood to make visible, juxtapose and draw together the different \u2018small worlds\u2019 within it. We demonstrate how the material infrastructure of the voting devices set in motion particular processes and interpretations of participation, putting data in place in a way that had ramifications for the recognition of heterogeneity. We conclude that redistributing participation means not only opening up access, so that everyone can participate, or even providing a multitude of voting channels, so that people can participate in different ways. Rather, it means making visible multiplicity, challenging notions of similarity, and showing how difference may be productive.",
         "author": "Lindley, Si{\\^a}n E and Thieme, Anja and Taylor, Alex S and Vlachokyriakos, Vasilis and Regan, Tim and Sweeney, David",
         "journal": "Computer Supported Cooperative Work (CSCW)",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:positioning in space, interaction:none, implication:n/a, i/o coupling:n/a, setup:spatial, audience:public",
@@ -288,6 +289,7 @@
         "series": "CSCW '17",
         "title": "Surfacing Small Worlds through Data-In-Place",
         "type": "article",
+        "url": "https://doi.org/10.1007/s10606-017-9263-3",
         "volume": "26",
         "year": "2017"
     },
@@ -450,7 +452,7 @@
         "year": "2020"
     },
     "pulse_heart2009": {
-        "author": "Markus Kison",
+        "author": "Kison, Markus",
         "keywords": "data availability:dynamic, data attribute:ordinal, info com:positioning in space, interaction:none, implication:n/a, i/o coupling:n/a, setup:standalone, audience:semi-public",
         "title": "Pulse",
         "type": "online",
@@ -458,7 +460,7 @@
         "year": "2009"
     },
     "pulse_tangiblelinegraph2012": {
-        "author": "Jon McTaggart and Christian Ferrara",
+        "author": "McTaggart, Jon and Ferrara, Christian",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:configuration, i/o coupling:nearby, setup:standalone, audience:private",
         "title": "Pulse",
         "type": "misc",
@@ -612,7 +614,7 @@
         "year": "2014  investigating"
     },
     "tempescope2015": {
-        "author": "Ken Kawamoto",
+        "author": "Kawamoto, Ken",
         "keywords": "data availability:dynamic, data attribute:categorical, info com:specialized application, interaction:indirect, implication:configuration, i/o coupling:environmental, setup:logical, audience:private",
         "title": "Tempescope",
         "type": "misc",
@@ -628,7 +630,7 @@
         "year": "2018"
     },
     "tidalmemory2013": {
-        "author": "Charles Sowers",
+        "author": "Sowers, Charles",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:specialized application, interaction:none, implication:n/a, i/o coupling:n/a, setup:standalone, audience:public",
         "title": "Tidal Memory",
         "type": "online",
@@ -665,7 +667,7 @@
     "virtualgravity2009": {
         "%keywords": "data availability:, data attribute:, info com:, interaction:, implication:, i/o coupling:, setup:, audience:",
         "%series": "IEEE '14",
-        "author": "Silke Hilsing",
+        "author": "Hilsing, Silke",
         "keywords": "data availability:static, data attribute:quantitative, info com:positioning in space, info com:optical properties, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:logical, audience:open-ended",
         "title": "Virtual Gravity",
         "type": "misc",
@@ -673,7 +675,7 @@
         "year": "2009"
     },
     "wable2007": {
-        "author": "David Kjelkerud",
+        "author": "Kjelkerud, David",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:logical, audience:semi-public",
         "title": "Wable",
         "type": "misc",
@@ -681,7 +683,7 @@
         "year": "2007"
     },
     "wageislands2015": {
-        "author": "Ekene Ijeoma",
+        "author": "Ijeoma, Ekene",
         "keywords": "data availability:static, data attribute:quantitative, info com:positioning in space, info com:specialized application, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:logical, audience:public",
         "title": "Wage Islands",
         "type": "misc",
@@ -689,7 +691,7 @@
         "year": "2015"
     },
     "xenovision2004": {
-        "author": "Joe Francica",
+        "author": "Francica, Joe",
         "keywords": "data availability:static, data attribute:categorical, data attribute:quantitative, info com:positioning in space, info com:optical properties, interaction:indirect, implication:configuration, i/o coupling:nearby, setup:logical, audience:open-ended",
         "title": "Interview with Xenotran Founder, Dr.Derrick Page",
         "type": "online",
@@ -697,7 +699,7 @@
         "year": "2004"
     },
     "xpose2014": {
-        "author": "Xuedi Chen",
+        "author": "Chen, Xuedi",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:material properties, interaction:indirect, implication:manipulation, i/o coupling:environmental, setup:standalone, audience:open-ended",
         "title": "x.pose",
         "type": "online",
