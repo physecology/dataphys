@@ -462,7 +462,7 @@
     "pulse_tangiblelinegraph2012": {
         "author": "McTaggart, Jon and Ferrara, Christian",
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:configuration, i/o coupling:nearby, setup:standalone, audience:private",
-        "title": "Pulse",
+        "title": "Pulse: Tangible Line Graph",
         "type": "misc",
         "url": "https://vimeo.com/45980795",
         "year": "2012"
@@ -693,7 +693,7 @@
     "xenovision2004": {
         "author": "Francica, Joe",
         "keywords": "data availability:static, data attribute:categorical, data attribute:quantitative, info com:positioning in space, info com:optical properties, interaction:indirect, implication:configuration, i/o coupling:nearby, setup:logical, audience:open-ended",
-        "title": "Interview with Xenotran Founder, Dr.Derrick Page",
+        "title": "XenoVision Mark III Dynamic Sand Table",
         "type": "online",
         "url": "https://www.directionsmag.com/article/3383",
         "year": "2004"
