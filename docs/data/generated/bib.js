@@ -107,7 +107,7 @@
         "keywords": "data availability:static, data attribute:categorical, data attribute:quantitative, info com:positioning in space, info com:optical properties, interaction:none, implication:n/a, i/o coupling:n/a, setup:spatial, audience:open-ended",
         "title": "dataMorphose",
         "type": "misc",
-        "url": "https://vimeo.com/4961482",
+        "url": "https://vimeo.com/7723745",
         "year": "2009"
     },
     "dataphysproject2016": {
@@ -217,7 +217,7 @@
         "keywords": "data availability:dynamic, data attribute:categorical, data attribute:quantitative, info com:positioning in space, info com:optical properties, interaction:indirect, implication:configuration, i/o coupling:distant, setup:logical, audience:semi-public",
         "title": "FizViz",
         "type": "misc",
-        "url": "https://www.youtube.com/watch?v",
+        "url": "https://youtu.be/xRHokuaM5Ms",
         "year": "2016"
     },
     "gardenofeden2007": {
@@ -430,7 +430,7 @@
         "keywords": "data availability:static, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:logical, audience:open-ended",
         "title": "Actuated Prism Map of Italy",
         "type": "misc",
-        "url": "https://www.youtube.com/watch?v",
+        "url": "https://youtu.be/DNzWbN3C7wU",
         "year": "2016"
     },
     "projectable2020": {
@@ -618,7 +618,7 @@
         "keywords": "data availability:dynamic, data attribute:categorical, info com:specialized application, interaction:indirect, implication:configuration, i/o coupling:environmental, setup:logical, audience:private",
         "title": "Tempescope",
         "type": "misc",
-        "url": "https://www.youtube.com/watch?v",
+        "url": "https://youtu.be/aw0kWmMFv4g",
         "year": "2015"
     },
     "thelongrun2018": {
@@ -626,7 +626,7 @@
         "keywords": "data availability:static, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:standalone, audience:semi-public",
         "title": "The Long Run",
         "type": "misc",
-        "url": "https://www.youtube.com/watch?v",
+        "url": "https://youtu.be/EsDpqNZpCvY",
         "year": "2018"
     },
     "tidalmemory2013": {
@@ -644,6 +644,7 @@
         "keywords": "data availability:static, data attribute:categorical, data attribute:quantitative, info com:optical properties, info com:specialized application, interaction:none, implication:n/a, i/o coupling:n/a, setup:spatial, audience:public",
         "title": "The Pulse of Tidy Street: Measuring and Publicly Displaying Domestic Electricity Consumption",
         "type": "inproceedings",
+        "url": "https://www.idc-online.com/technical_references/pdfs/electrical_engineering/The%20pulse%20of%20Tidy%20street.pdf",
         "year": "2010"
     },
     "torrent2017": {
@@ -679,7 +680,7 @@
         "keywords": "data availability:dynamic, data attribute:quantitative, info com:positioning in space, interaction:indirect, implication:exploration, i/o coupling:nearby, setup:logical, audience:semi-public",
         "title": "Wable",
         "type": "misc",
-        "url": "https://www.youtube.com/watch?v",
+        "url": "https://youtu.be/e6G5YlICVRg",
         "year": "2007"
     },
     "wageislands2015": {
